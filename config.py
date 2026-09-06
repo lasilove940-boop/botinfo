@@ -1,0 +1,2 @@
+TOKEN = ""
+DATABASE = "bot.db"
